@@ -22,7 +22,7 @@ def main():
     print curDate.ctime()
     x=centSub(age)
     year=calcYear(x)
-    #print("You will turn 100 years in " + str(curDate.year + age))
+    #print("Hi " + name + " !!!")
     #print("You will turn 100 years in " + str(year))
     msg1 = "Hi " + name + " !!!\n"
     msg2 = "You will turn 100 years in " + str(year) + " \n"
